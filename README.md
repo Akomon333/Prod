@@ -35,8 +35,8 @@ Example of json:
 }
 
 
-![Dashboard Showcase 1](Photos/showcase1.PNG)
+![Dashboard Showcase 1](Photos/showcase2.PNG)
 
 ![Meteorite Photo](Photos/meteoritetest.jpg)
 
-![Dashboard Showcase 2](Photos/showcase2.PNG)
+![Dashboard Showcase 2](Photos/showcase1.PNG)
